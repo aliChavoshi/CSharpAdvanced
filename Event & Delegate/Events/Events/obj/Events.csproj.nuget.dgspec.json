@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Chavoshi\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj": {}
+    "C:\\Users\\ac4136\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Chavoshi\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj": {
+    "C:\\Users\\ac4136\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Chavoshi\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj",
+        "projectUniqueName": "C:\\Users\\ac4136\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj",
         "projectName": "Events",
-        "projectPath": "C:\\Users\\Ali Chavoshi\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj",
-        "packagesPath": "C:\\Users\\Ali Chavoshi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Chavoshi\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\obj\\",
+        "projectPath": "C:\\Users\\ac4136\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\Events.csproj",
+        "packagesPath": "C:\\Users\\ac4136\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ac4136\\Google Drive\\Developer\\MoshHamedani\\C#\\Part3 - C# Advanced\\Practice Code With Mosh\\Event & Delegate\\Events\\Events\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ali Chavoshi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ac4136\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace Events
 {
@@ -12,13 +11,12 @@ namespace Events
     public class VideoEventArgs : EventArgs
     {
         public Video Video { get; set; }
-
     }
 
     public class VideoEncoder
     {
-
         //public delegate void VideoEncodedEventHandler(object source, VideoEventArgs args);
+        //public delegate void VideoEncodedEventHandler(object source, EventArgs args);
 
         public event EventHandler<VideoEventArgs> VideoEncoded;
 
@@ -37,8 +35,6 @@ namespace Events
         }
     }
 
-
-
     class Program
     {
         static void Main(string[] args)
@@ -55,7 +51,6 @@ namespace Events
             videoEncode.Encode(new Video() { Title = "Video 1" });
         }
     }
-
 
     public class MessageService
     {
